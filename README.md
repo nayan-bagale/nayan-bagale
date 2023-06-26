@@ -1,12 +1,12 @@
 Hi 👋 My name is Nayan
 ======================
 
-I've been learning to code for 3 years. Currently I'm pursuing the degree.
+I've been learning to code for 4 years. Currently, I'm pursuing a degree.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nvbagale@gmail.com](mailto:nvbagale@gmail.com)
 * 🧠  I'm learning Web3.js
-* 🤝  I'm open to collaborating on Full-Stack Development and Python Development
+* 🤝  I'm open to collaborating on Full-Stack Web Development.
 
 ### Skills
 
