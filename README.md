@@ -6,24 +6,6 @@
 
 ###
 
-<h2 align="left">🔗 Socials</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/nayan-bagale" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.twitter.com/nayan_bagale" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://nayan-bagale.vercel.app/" target="_blank">
-    <img src="https://nayan-bagale.vercel.app/static/media/profile-pic.9a320424f8f9679db1a3.jpg" width="40" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">💪 Languages that I can't speak but I can write</h2>
 
 ###
